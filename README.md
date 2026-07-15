@@ -1,4 +1,4 @@
-# Infrastructure Projects Portfolio
+# IPsec VPN Transit Architecture Projects Portfolio
 
 This repository contains practical infrastructure and network engineering projects based on real-world scenarios.
 
